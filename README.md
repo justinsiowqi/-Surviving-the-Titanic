@@ -10,6 +10,7 @@
 </div>
 
 <div>
+
 Can you really call yourself a Kaggler if you've never attempted the **legendary** Titanic dataset?
 
 This notebook will bring you up to speed on data visualization, pipelines and **nested cross validation**. In particular, we'll focus on creating **custom transformers** and compiling them into complex pipelines.
