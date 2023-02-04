@@ -1,23 +1,23 @@
-# 🕶️ Build the LeNet-5 from Scratch!
+# 🚢 Surviving the Titanic
 
-## Predicting Handwritten Digits
+## Predicting who survives the Titanic shipwreck
 
 <div align="center">
-    <img src="MNIST Background Edited" alt="MNIST Matrix" style="width: 700px;"> 
+    <img src="https://www.en-vols.com/wp-content/uploads/afmm/2022/12/titanic2.jpg" alt="Titanic Movie" style="width: 600px;"> 
 </div>
 <div align="center">
-  If you look really closely, it's the MNIST dataset!
+  © Titanic (1997 film)
 </div>
 
 <div>
     
 &nbsp;
-    
-Dubbed as the "Hello World" of datasets, MNIST represents one of the most fundamental resources in machine learning. 
 
-In this notebook, we will walk you through the process of building a **convolutional neural network** to predict handwritten digits. Specifically, we will learn how to build a **LeNet-5** model from scratch! 
+Can you really call yourself a Kaggler if you've never attempted the **legendary** Titanic dataset?
 
-If you're up for it, we can take a step further by applying various techniques to reduce overfitting and improve performance.
+This notebook will bring you up to speed on data visualization, pipelines and **nested cross validation**. In particular, we'll focus on creating **custom transformers** and compiling them into complex pipelines.
+
+Let's dive in...
 
 ## Getting Started
 
@@ -35,6 +35,6 @@ install pandas
 install numpy
 install seaborn
 install matplotlib
-import tensorflow 
+import sklearn 
 ```
 </div>
